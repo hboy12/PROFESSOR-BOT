@@ -3,7 +3,7 @@
   <img src="Logo/PROFESSOR-BOT.jpeg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> 𝕂𝕒𝕞𝕒𝕝 ℍ𝕒𝕒𝕤𝕒𝕟</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
@@ -101,7 +101,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![KAMAL BOT](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/+1hdblxySV-c2YmNl)
+* [![KAMAL BOT](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/bootttsss)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
